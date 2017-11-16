@@ -1,1 +1,18 @@
 /*Custom styles here*/
+.form-control {
+  width: 30%;
+  margin-left: 20px;
+}
+
+label {
+  margin: 5px 20px;
+}
+
+.error {
+  color: red;
+  padding: 20px;
+}
+
+img {
+  height: 100px;
+}
